@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: red;
+    font-size: 40px;
+}
+
+p{
+    font-weight: 300;
+}
